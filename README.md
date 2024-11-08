@@ -1,4 +1,6 @@
 # Portfolio Website
+*Basic View -
+![HomePage of my portfolio website](https://github.com/HitenDewangan/Portfolio-website/blob/82186b659377609b707aca0e2be2d8c3c36439d5/Images/portfolio-card-img.png)
 
 A personal portfolio website showcasing my projects and experiences.
 
